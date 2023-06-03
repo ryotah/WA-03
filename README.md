@@ -5,7 +5,7 @@ CLI tool exercise
 ## Install
 
 ```
-go install github.com/ryotah/WA-03/cmd/WA-03
+go install github.com/ryotah/WA-03/cmd/WA-03@latest
 ```
 
 ## Development
